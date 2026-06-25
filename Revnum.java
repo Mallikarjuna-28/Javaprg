@@ -13,6 +13,4 @@ class Revnum {
 
         System.out.println("Reverse of Number is " + rev);
     }
-}
-~                                                                                                                                                       
-~                     
+}                     
